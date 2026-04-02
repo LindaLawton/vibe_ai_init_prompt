@@ -13,4 +13,4 @@
 - If encountering persistent issues with tools (e.g., fetch failures, API errors), stop and ask the user for help instead of looping or repeatedly trying to fix it autonomously.
 - Never execute interactive shell commands or scripts that require terminal input (e.g., inquirer, input()) autonomously. If such a command is strictly necessary for verification, ask the user to run it manually and report the result.
 
-Notes:  can you save to memory that running scripts on your own that require user termanil input is a bad idea and to ask the user to do it if its stricly nessisary 
+

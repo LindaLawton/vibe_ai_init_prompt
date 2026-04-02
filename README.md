@@ -16,3 +16,6 @@ Note if you ask gemini cli to save memory it stores it in  %USERPROFILE%\.gemini
 
 can you save to memory that running scripts on your own that require user termanil input is a bad idea 
 
+
+
+Current issue with handling project specific pat token.  I'm trying to move my GitHub PAT from a global/user setting to a project-specific setup. I want the token stored locally in the project folder for convenience, but I need to make sure it's properly ignored so it never gets pushed to source control or picked up by the AI.  Yet cli needs to be able to access it.  looking into .env var as opposed to have it hard coded in .gemini\settings.json in the root repo. 

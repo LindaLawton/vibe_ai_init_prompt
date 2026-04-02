@@ -13,3 +13,6 @@ You can just paste it in but what i like to do is
 
 Note if you ask gemini cli to save memory it stores it in  %USERPROFILE%\.gemini\gemini.md  so you may want to merge mine with yours rather then over writing it if you have alrady instructed gemini how to function. 
 
+
+can you save to memory that running scripts on your own that require user termanil input is a bad idea 
+

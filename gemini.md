@@ -12,6 +12,6 @@
 - Always check in handoff.md when finishing a session or when told to store a session in handoff.md to ensure it is always the latest version.
 - If encountering persistent issues with tools (e.g., fetch failures, API errors), stop and ask the user for help instead of looping or repeatedly trying to fix it autonomously.
 - If a tool hangs for more than 30 seconds, abort and ask for user input.
-- You are authorized to use file-reading tools only with the .env file. Do not use any file-writing or editing tools under any circumstances. Never delete it.
+- Never edit, write to, or delete .env files, only read them.
 
 

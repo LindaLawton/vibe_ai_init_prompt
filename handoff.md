@@ -2,7 +2,7 @@
 
 ## ✅ Completed Today
 
-2. **Refinement Cleanup:**
+## 🧹 Refinement Cleanup
 
 
 ## 📌 Status of Batch

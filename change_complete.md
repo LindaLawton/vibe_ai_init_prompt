@@ -17,9 +17,12 @@ I would like you to now.
 		c. Ensure that your changes have not effected other parts of the system.
 		d. Ensure that you did not forget anything.
 		e. Ensure that we are not leaving our self open for something that might bite us in the butt in the future.
-		f. Ensure that all unit tests needed to fully test the feature were created.
-		g. Ensure that all unit tests pass not just the ones you created for this feature.
-   2. Do not check in, commit, or merge your changes until I specifly tell you that the change is accpeted and you may commit it.
+		f. Ensure that all unit tests needed to fully test the feature were created. (If issue is fully addressed)
+		g. Ensure that all unit tests pass not just the ones you created for this feature. (If issue is fully addressed)
+        h. Verify that the logic of the current phase's changes is correct in isolation (e.g., via targeted tests or manual checks), accepting that full system integration may remain broken    
+  until the entire issue is finished.
+
+   2. Do not check in, commit, or merge your changes until I specifically tell you that the change is accepted and you may commit it.
 ```
 
 # Usage.

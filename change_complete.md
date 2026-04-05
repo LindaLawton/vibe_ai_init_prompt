@@ -21,9 +21,9 @@ I would like you to now.
 		g. Ensure that all unit tests pass not just the ones you created for this feature. (If issue is fully addressed)
         h. Verify that the logic of the current phase's changes is correct in isolation (e.g., via targeted tests or manual checks), accepting that full system integration may remain broken until the entire issue is finished.    
    2. In the final phase
-      a. Ensure the issue is fully covered with tests.
-      b. Ensure all tests run.
-      C. Ensure that we are not leaving our self open for something that might bite us in the butt in the future.
+      a. Conduct a comprehensive review of all changes to ensure they are complete, align with best practices, maintain system integrity across all dependencies, and mitigate any potential long-term risks or oversights.
+      b. Ensure the issue is fully covered with tests.
+      c. Ensure all tests run.
    2. Do not check in, commit, or merge your changes until I specifically tell you that the change is accepted and you may commit it.
 ```
 

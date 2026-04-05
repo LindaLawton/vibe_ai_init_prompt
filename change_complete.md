@@ -12,10 +12,7 @@ to address this i like to have the AI check itself.  I send it this prompt
 ```
 I would like you to now. 
 	1. check the work you just did. 
-		a. Verify that all the changes were completed as they should be.
-		b. Ensure that you have followed best practice.
-		c. Ensure that your changes have not effected other parts of the system.
-		d. Ensure that you did not forget anything.		
+		a.  Conduct a comprehensive review of all changes to ensure they are complete, align with best practices, maintain system integrity across all dependencies, and mitigate any potential long-term risks or oversights.
 		e. Ensure that we are not leaving our self open for something that might bite us in the butt in the future.
 		f. Ensure that all unit tests needed to fully test the feature were created. (If issue is fully addressed)
 		g. Ensure that all unit tests pass not just the ones you created for this feature. (If issue is fully addressed)

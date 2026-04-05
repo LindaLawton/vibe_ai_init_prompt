@@ -23,7 +23,7 @@ I would like you to now.
    2. In the final phase
       a. Ensure the issue is fully covered with tests.
       b. Ensure all tests run.
-      C. ensre that we have not added anythign that may bite us in the butt in the future.
+      C. Ensure that we are not leaving our self open for something that might bite us in the butt in the future.
    2. Do not check in, commit, or merge your changes until I specifically tell you that the change is accepted and you may commit it.
 ```
 

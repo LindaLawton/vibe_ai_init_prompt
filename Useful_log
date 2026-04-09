@@ -1,0 +1,5 @@
+Please check the last 2 log files in the logs directory and build a Status Dashboard for the video generation runs. For each run found in the logs, extract and display:
+  - The Log File Name
+  - Type (Short or Long form)
+  - Scheduled Date & Time
+  - Status (SUCCESS if it says 'Successfully uploaded', or FAILED with the reason why, e.g., 'No READY compilations found').
